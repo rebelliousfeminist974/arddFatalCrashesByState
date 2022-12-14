@@ -1,0 +1,458 @@
+﻿Crash ID,State,Month,Year,Dayweek,Time,Crash Type,Number Fatalities,"Bus 
+Involvement",Heavy Rigid Truck Involvement,Articulated Truck Involvement,Speed Limit,National Remoteness Areas,SA4 Name 2016,National LGA Name 2017,National Road Type,Christmas Period,Easter Period,Day of week,Time of Day
+19898012,ACT,1,1989,Sunday,00:15,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19898001,ACT,1,1989,Thursday,22:10,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19898002,ACT,2,1989,Wednesday,23:04,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19898023,ACT,2,1989,Monday,15:20,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19898019,ACT,3,1989,Sunday,22:20,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19898026,ACT,3,1989,Friday,21:10,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19898013,ACT,3,1989,Saturday,20:30,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19898021,ACT,4,1989,Wednesday,17:15,Multiple,1,Yes,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19898020,ACT,4,1989,Thursday,00:55,Single,4,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19898014,ACT,4,1989,Tuesday,10:55,Multiple,2,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19898004,ACT,4,1989,Friday,20:10,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19898006,ACT,6,1989,Saturday,18:00,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19898005,ACT,6,1989,Saturday,01:05,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19898010,ACT,7,1989,Friday,19:10,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19898008,ACT,8,1989,Thursday,05:20,Single,2,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19898007,ACT,9,1989,Friday,20:50,Multiple,1,Yes,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19898016,ACT,9,1989,Thursday,23:40,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19898022,ACT,9,1989,Thursday,21:20,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19898025,ACT,9,1989,Monday,20:55,Multiple,1,Yes,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19898018,ACT,9,1989,Friday,00:15,Single,1,No,-9,Yes,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19898015,ACT,10,1989,Sunday,16:45,Multiple,2,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19898024,ACT,11,1989,Saturday,04:55,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19898011,ACT,11,1989,Thursday,22:45,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19898009,ACT,12,1989,Saturday,15:10,Single,1,No,-9,No,-9,-9,-9,-9,-9,Yes,No,Weekend,Day
+19898003,ACT,12,1989,Sunday,01:10,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19898017,ACT,12,1989,Wednesday,18:00,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19908014,ACT,1,1990,Friday,03:20,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19908013,ACT,1,1990,Thursday,01:45,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19908001,ACT,5,1990,Saturday,19:55,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19908018,ACT,5,1990,Saturday,01:50,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19908005,ACT,5,1990,Friday,16:20,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19908006,ACT,6,1990,Sunday,15:30,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19908004,ACT,7,1990,Sunday,09:30,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19908010,ACT,7,1990,Sunday,14:50,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19908021,ACT,7,1990,Monday,06:28,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19908003,ACT,7,1990,Tuesday,06:45,Multiple,2,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19908020,ACT,7,1990,Monday,16:30,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19908011,ACT,8,1990,Wednesday,18:45,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19908022,ACT,8,1990,Friday,17:10,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19908023,ACT,8,1990,Wednesday,23:20,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19908007,ACT,9,1990,Sunday,21:20,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19908017,ACT,10,1990,Saturday,21:00,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19908012,ACT,10,1990,Saturday,13:55,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19908015,ACT,10,1990,Wednesday,13:40,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19908024,ACT,11,1990,Wednesday,18:10,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19908009,ACT,11,1990,Tuesday,18:35,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19908008,ACT,11,1990,Monday,21:30,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19908016,ACT,12,1990,Tuesday,20:10,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19908002,ACT,12,1990,Monday,09:30,Multiple,2,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19908019,ACT,12,1990,Monday,15:15,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,Yes,No,Weekday,Day
+19918009,ACT,1,1991,Sunday,11:45,Multiple,2,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19918002,ACT,2,1991,Tuesday,00:30,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19918005,ACT,3,1991,Sunday,15:50,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19918003,ACT,4,1991,Tuesday,20:35,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19918007,ACT,4,1991,Tuesday,18:40,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19918006,ACT,4,1991,Friday,16:00,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19918011,ACT,4,1991,Wednesday,17:00,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19918012,ACT,4,1991,Monday,16:40,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19918001,ACT,5,1991,Friday,13:00,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19918008,ACT,6,1991,Saturday,15:10,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19918015,ACT,6,1991,Sunday,01:30,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19918013,ACT,6,1991,Saturday,06:05,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19918016,ACT,8,1991,Friday,01:00,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19918010,ACT,8,1991,Monday,07:50,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19918014,ACT,9,1991,Monday,17:30,Multiple,1,Yes,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19918004,ACT,10,1991,Tuesday,16:15,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19928014,ACT,1,1992,Saturday,15:30,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19928017,ACT,2,1992,Saturday,04:55,Single,2,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19928010,ACT,3,1992,Sunday,15:20,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19928002,ACT,4,1992,Saturday,15:45,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19928011,ACT,4,1992,Sunday,17:15,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19928008,ACT,4,1992,Tuesday,00:00,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19928006,ACT,4,1992,Saturday,16:15,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19928004,ACT,5,1992,Saturday,15:10,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19928012,ACT,5,1992,Wednesday,11:20,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19928003,ACT,6,1992,Sunday,03:00,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19928009,ACT,6,1992,Friday,18:00,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19928007,ACT,7,1992,Saturday,18:00,Multiple,2,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19928018,ACT,8,1992,Thursday,17:30,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19928005,ACT,8,1992,Friday,14:05,Single,1,Yes,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19928016,ACT,9,1992,Friday,18:30,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19928001,ACT,9,1992,Thursday,01:37,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19928013,ACT,10,1992,Sunday,16:00,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19928015,ACT,12,1992,Monday,11:03,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19938001,ACT,2,1993,Saturday,23:20,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19938002,ACT,3,1993,Saturday,23:15,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19938011,ACT,6,1993,Thursday,04:40,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19938009,ACT,8,1993,Saturday,06:55,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19938005,ACT,9,1993,Friday,23:50,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19938007,ACT,9,1993,Thursday,23:05,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19938010,ACT,10,1993,Sunday,00:20,Single,2,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19938008,ACT,10,1993,Thursday,20:15,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19938006,ACT,10,1993,Friday,17:20,Multiple,1,Yes,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19938003,ACT,10,1993,Friday,10:05,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19938004,ACT,11,1993,Saturday,23:20,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19948005,ACT,1,1994,Wednesday,21:09,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19948008,ACT,2,1994,Thursday,15:10,Multiple,1,Yes,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19948009,ACT,3,1994,Sunday,00:45,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19948002,ACT,4,1994,Saturday,15:55,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19948004,ACT,4,1994,Sunday,17:10,Single,2,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19948012,ACT,4,1994,Thursday,08:10,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19948007,ACT,5,1994,Tuesday,00:40,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19948013,ACT,6,1994,Saturday,20:17,Single,2,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19948010,ACT,6,1994,Wednesday,06:10,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19948014,ACT,8,1994,Friday,17:40,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19948001,ACT,9,1994,Tuesday,14:00,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19948003,ACT,9,1994,Friday,18:13,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19948015,ACT,10,1994,Friday,17:03,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19948011,ACT,11,1994,Monday,22:05,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19948006,ACT,12,1994,Saturday,01:00,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19958007,ACT,5,1995,Sunday,16:00,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19958008,ACT,6,1995,Wednesday,21:05,Multiple,1,No,-9,Yes,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19958002,ACT,7,1995,Saturday,10:33,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19958011,ACT,7,1995,Saturday,17:40,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19958010,ACT,7,1995,Saturday,06:25,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19958012,ACT,9,1995,Thursday,02:00,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19958005,ACT,9,1995,Tuesday,11:01,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19958013,ACT,9,1995,Saturday,05:45,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19958003,ACT,10,1995,Friday,-9,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19958006,ACT,10,1995,Saturday,10:00,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19958009,ACT,11,1995,Friday,20:15,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19958014,ACT,12,1995,Friday,-9,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19958001,ACT,12,1995,Thursday,-9,Single,2,No,-9,No,-9,-9,-9,-9,-9,Yes,No,Weekday,Night
+19958004,ACT,12,1995,Thursday,-9,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19968014,ACT,1,1996,Thursday,17:37,Multiple,1,Yes,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19968015,ACT,2,1996,Thursday,18:30,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19968003,ACT,4,1996,Wednesday,13:05,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19968005,ACT,5,1996,Sunday,07:28,Multiple,2,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19968008,ACT,5,1996,Tuesday,13:35,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19968009,ACT,6,1996,Sunday,16:30,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19968001,ACT,6,1996,Sunday,00:15,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19968006,ACT,8,1996,Sunday,08:20,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19968016,ACT,8,1996,Thursday,11:00,Multiple,2,No,-9,Yes,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19968004,ACT,9,1996,Monday,21:45,Single,4,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19968002,ACT,9,1996,Wednesday,19:37,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19968013,ACT,10,1996,Sunday,21:21,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19968012,ACT,11,1996,Friday,00:25,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19968010,ACT,11,1996,Saturday,10:50,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19968017,ACT,11,1996,Wednesday,13:20,Multiple,2,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19968007,ACT,12,1996,Monday,18:00,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19968011,ACT,12,1996,Wednesday,17:00,Multiple,1,Yes,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19978012,ACT,1,1997,Saturday,04:15,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19978001,ACT,2,1997,Saturday,16:10,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19978011,ACT,3,1997,Monday,07:25,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19978016,ACT,4,1997,Wednesday,18:05,Multiple,1,Yes,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19978015,ACT,5,1997,Wednesday,12:45,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19978002,ACT,8,1997,Saturday,09:38,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19978004,ACT,8,1997,Saturday,03:36,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19978003,ACT,9,1997,Wednesday,20:30,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19978007,ACT,9,1997,Thursday,17:00,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19978013,ACT,10,1997,Friday,18:00,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19978008,ACT,10,1997,Friday,21:10,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19978009,ACT,11,1997,Sunday,07:30,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19978017,ACT,11,1997,Wednesday,11:00,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19978005,ACT,12,1997,Saturday,17:30,Single,1,No,-9,No,-9,-9,-9,-9,-9,Yes,No,Weekend,Day
+19978010,ACT,12,1997,Saturday,02:40,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19978014,ACT,12,1997,Saturday,21:20,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19978006,ACT,12,1997,Wednesday,16:30,Single,1,No,-9,No,-9,-9,-9,-9,-9,Yes,No,Weekday,Day
+19988002,ACT,1,1998,Sunday,22:50,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19988016,ACT,2,1998,Sunday,08:15,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19988011,ACT,2,1998,Tuesday,08:20,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19988015,ACT,2,1998,Thursday,11:15,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19988009,ACT,3,1998,Monday,01:35,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19988018,ACT,3,1998,Thursday,00:15,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19988017,ACT,3,1998,Monday,06:56,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19988020,ACT,5,1998,Sunday,-9,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19988013,ACT,5,1998,Friday,-9,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19988010,ACT,7,1998,Sunday,18:30,Single,2,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19988019,ACT,7,1998,Friday,03:00,Multiple,2,No,-9,Yes,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19988001,ACT,8,1998,Thursday,14:40,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19988003,ACT,9,1998,Friday,22:15,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19988012,ACT,9,1998,Tuesday,22:25,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19988014,ACT,9,1998,Tuesday,02:30,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19988007,ACT,10,1998,Saturday,11:50,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19988006,ACT,10,1998,Wednesday,08:15,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19988004,ACT,12,1998,Saturday,20:00,Single,1,No,-9,No,-9,-9,-9,-9,-9,Yes,No,Weekend,Night
+19988008,ACT,12,1998,Monday,13:40,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19988005,ACT,12,1998,Thursday,09:25,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19998005,ACT,1,1999,Thursday,22:50,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19998016,ACT,2,1999,Saturday,22:00,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19998008,ACT,2,1999,Saturday,17:40,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19998013,ACT,2,1999,Tuesday,02:15,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19998012,ACT,3,1999,Saturday,16:30,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19998007,ACT,4,1999,Wednesday,08:00,Multiple,1,Yes,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19998006,ACT,4,1999,Wednesday,15:10,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19998003,ACT,6,1999,Friday,18:30,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19998011,ACT,6,1999,Monday,17:30,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19998010,ACT,6,1999,Thursday,15:15,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+19998002,ACT,9,1999,Sunday,22:15,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19998017,ACT,9,1999,Wednesday,00:45,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+19998014,ACT,11,1999,Monday,01:00,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+19998009,ACT,11,1999,Saturday,11:35,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+19998001,ACT,12,1999,Monday,08:00,Multiple,1,No,-9,Yes,-9,-9,-9,-9,-9,Yes,No,Weekday,Day
+19998004,ACT,12,1999,Wednesday,14:30,Single,3,No,-9,No,-9,-9,-9,-9,-9,Yes,No,Weekday,Day
+19998015,ACT,12,1999,Tuesday,17:00,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20008014,ACT,2,2000,Thursday,00:30,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+20008007,ACT,3,2000,Saturday,01:30,Single,2,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20008006,ACT,5,2000,Monday,12:30,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20008015,ACT,6,2000,Sunday,09:15,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+20008016,ACT,7,2000,Monday,14:10,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20008010,ACT,7,2000,Thursday,17:15,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20008005,ACT,8,2000,Sunday,02:30,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20008013,ACT,9,2000,Saturday,01:20,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20008003,ACT,9,2000,Friday,23:00,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20008002,ACT,9,2000,Monday,09:15,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20008011,ACT,9,2000,Thursday,12:30,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20008001,ACT,10,2000,Saturday,02:15,Single,2,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20008009,ACT,10,2000,Sunday,18:39,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20008004,ACT,10,2000,Friday,05:20,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+20008012,ACT,12,2000,Thursday,11:30,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20008008,ACT,12,2000,Tuesday,23:30,Single,1,No,-9,No,-9,-9,-9,-9,-9,Yes,No,Weekday,Night
+20018010,ACT,1,2001,Monday,18:50,Single,1,No,-9,Yes,-9,-9,-9,-9,-9,No,No,Weekday,Night
+20018012,ACT,1,2001,Friday,20:15,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20018007,ACT,2,2001,Sunday,10:30,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+20018008,ACT,2,2001,Friday,17:30,Single,1,Yes,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20018004,ACT,5,2001,Saturday,01:00,Multiple,1,No,-9,Yes,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20018005,ACT,5,2001,Monday,13:10,Multiple,1,Yes,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20018002,ACT,6,2001,Tuesday,02:00,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+20018011,ACT,7,2001,Friday,00:45,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+20018001,ACT,8,2001,Friday,19:00,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20018006,ACT,8,2001,Thursday,09:15,Multiple,1,No,-9,Yes,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20018014,ACT,9,2001,Saturday,19:30,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20018003,ACT,9,2001,Thursday,23:00,Single,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+20018013,ACT,11,2001,Friday,17:20,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20018015,ACT,12,2001,Wednesday,00:30,Single,2,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+20018009,ACT,12,2001,Tuesday,16:15,Multiple,1,No,-9,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20028008,ACT,4,2002,Sunday,15:30,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+20028006,ACT,5,2002,Monday,09:30,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20028004,ACT,5,2002,Friday,14:30,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20028005,ACT,6,2002,Thursday,16:50,Multiple,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20028001,ACT,7,2002,Thursday,11:30,Multiple,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20028002,ACT,8,2002,Saturday,15:30,Multiple,3,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+20028003,ACT,10,2002,Wednesday,11:55,Multiple,1,No,Yes,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20028007,ACT,11,2002,Friday,14:15,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20038007,ACT,2,2003,Monday,16:30,Multiple,2,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20038008,ACT,2,2003,Thursday,10:50,Single,1,No,Yes,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20038004,ACT,5,2003,Saturday,04:00,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20038010,ACT,6,2003,Saturday,03:30,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20038003,ACT,6,2003,Friday,23:45,Multiple,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20038001,ACT,6,2003,Tuesday,15:15,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20038002,ACT,10,2003,Tuesday,18:30,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+20038006,ACT,11,2003,Monday,16:40,Multiple,1,No,Yes,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20038005,ACT,12,2003,Sunday,02:30,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20038009,ACT,12,2003,Wednesday,16:00,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20048002,ACT,1,2004,Saturday,22:25,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20048008,ACT,1,2004,Wednesday,19:20,Multiple,1,Yes,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+20048006,ACT,3,2004,Sunday,03:30,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20048005,ACT,4,2004,Saturday,03:00,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20048001,ACT,6,2004,Wednesday,18:00,Multiple,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+20048007,ACT,7,2004,Monday,18:30,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+20048009,ACT,9,2004,Saturday,11:30,Multiple,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+20048004,ACT,11,2004,Friday,18:00,Multiple,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20048003,ACT,11,2004,Sunday,12:45,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+20058007,ACT,1,2005,Wednesday,22:00,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+20058010,ACT,2,2005,Wednesday,12:45,Multiple,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20058017,ACT,2,2005,Friday,06:30,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20058022,ACT,3,2005,Sunday,23:30,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20058014,ACT,4,2005,Saturday,19:45,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20058001,ACT,4,2005,Sunday,06:40,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+20058023,ACT,4,2005,Friday,15:00,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20058002,ACT,4,2005,Friday,23:30,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20058021,ACT,5,2005,Sunday,15:20,Multiple,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+20058012,ACT,5,2005,Tuesday,11:47,Multiple,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20058009,ACT,5,2005,Tuesday,17:30,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20058013,ACT,7,2005,Sunday,06:50,Multiple,1,No,Yes,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+20058019,ACT,7,2005,Thursday,18:30,Multiple,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+20058020,ACT,7,2005,Sunday,16:20,Multiple,2,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+20058006,ACT,7,2005,Tuesday,08:40,Multiple,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20058024,ACT,7,2005,Saturday,00:15,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20058025,ACT,8,2005,Friday,23:45,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20058008,ACT,9,2005,Sunday,02:15,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20058016,ACT,9,2005,Monday,19:10,Multiple,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+20058004,ACT,9,2005,Wednesday,08:30,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20058005,ACT,10,2005,Saturday,14:10,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+20058015,ACT,10,2005,Tuesday,14:30,Multiple,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20058003,ACT,11,2005,Sunday,17:45,Multiple,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+20058011,ACT,11,2005,Thursday,13:00,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20058018,ACT,12,2005,Friday,19:20,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20068007,ACT,2,2006,Saturday,20:45,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20068010,ACT,2,2006,Friday,09:50,Multiple,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20068005,ACT,5,2006,Friday,18:20,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20068002,ACT,6,2006,Tuesday,08:15,Multiple,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20068006,ACT,8,2006,Friday,11:25,Multiple,1,No,Yes,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20068011,ACT,8,2006,Sunday,17:00,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+20068001,ACT,9,2006,Monday,10:30,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20068012,ACT,10,2006,Sunday,10:30,Multiple,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+20068004,ACT,10,2006,Thursday,16:20,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20068008,ACT,11,2006,Tuesday,11:25,Multiple,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20068009,ACT,12,2006,Wednesday,02:00,Single,2,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+20068003,ACT,12,2006,Thursday,13:45,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20078005,ACT,2,2007,Monday,08:30,Multiple,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20078011,ACT,3,2007,Tuesday,08:20,Multiple,1,No,Yes,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20078009,ACT,4,2007,Sunday,02:30,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20078010,ACT,4,2007,Tuesday,18:45,Multiple,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+20078004,ACT,4,2007,Thursday,10:30,Single,1,No,No,No,-9,-9,-9,-9,-9,No,Yes,Weekday,Day
+20078002,ACT,5,2007,Sunday,15:40,Multiple,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+20078012,ACT,6,2007,Tuesday,00:30,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+20078007,ACT,6,2007,Friday,17:30,Multiple,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20078008,ACT,7,2007,Friday,03:00,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Night
+20078014,ACT,8,2007,Sunday,18:30,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20078001,ACT,8,2007,Sunday,18:30,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20078006,ACT,10,2007,Thursday,11:00,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20078013,ACT,11,2007,Friday,21:15,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Night
+20078003,ACT,12,2007,Friday,11:30,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20088013,ACT,1,2008,Thursday,15:28,Single,1,No,No,No,50,-9,-9,-9,-9,Yes,No,Weekday,Day
+20088008,ACT,2,2008,Monday,17:35,Multiple,1,No,No,No,50,-9,-9,-9,-9,No,No,Weekday,Day
+20088007,ACT,4,2008,Thursday,16:00,Multiple,1,No,No,No,50,-9,-9,-9,-9,No,No,Weekday,Day
+20088009,ACT,5,2008,Tuesday,23:23,Single,1,No,No,No,60,-9,-9,-9,-9,No,No,Weekday,Night
+20088014,ACT,5,2008,Wednesday,17:45,Single,1,No,No,No,60,-9,-9,-9,-9,No,No,Weekday,Day
+20088001,ACT,6,2008,Monday,03:37,Single,1,No,No,No,80,-9,-9,-9,-9,No,No,Weekend,Night
+20088002,ACT,6,2008,Friday,02:46,Single,1,No,No,No,60,-9,-9,-9,-9,No,No,Weekday,Night
+20088006,ACT,6,2008,Thursday,10:35,Multiple,1,No,No,No,60,-9,-9,-9,-9,No,No,Weekday,Day
+20088005,ACT,7,2008,Saturday,07:05,Single,1,No,No,No,80,-9,-9,-9,-9,No,No,Weekend,Day
+20088012,ACT,8,2008,Saturday,00:30,Multiple,1,No,No,No,80,-9,-9,-9,-9,No,No,Weekend,Night
+20088010,ACT,8,2008,Wednesday,15:34,Multiple,1,No,No,No,60,-9,-9,-9,-9,No,No,Weekday,Day
+20088003,ACT,8,2008,Friday,03:15,Single,1,No,No,No,50,-9,-9,-9,-9,No,No,Weekday,Night
+20088004,ACT,9,2008,Sunday,19:40,Single,1,No,No,No,60,-9,-9,-9,-9,No,No,Weekend,Night
+20088011,ACT,12,2008,Monday,12:00,Multiple,1,No,No,No,50,-9,-9,-9,-9,No,No,Weekday,Day
+20098009,ACT,3,2009,Sunday,01:15,Single,2,No,No,No,60,-9,-9,-9,-9,No,No,Weekend,Night
+20098004,ACT,3,2009,Monday,15:30,Single,1,No,No,Yes,80,-9,-9,-9,-9,No,No,Weekday,Day
+20098011,ACT,4,2009,Friday,09:00,Single,1,No,No,No,100,-9,-9,-9,-9,No,Yes,Weekday,Day
+20098001,ACT,5,2009,Tuesday,16:30,Single,1,No,No,No,80,-9,-9,-9,-9,No,No,Weekday,Day
+20098003,ACT,6,2009,Sunday,03:23,Single,1,No,No,No,70,-9,-9,-9,-9,No,No,Weekend,Night
+20098008,ACT,6,2009,Tuesday,18:00,Single,1,No,No,No,60,-9,-9,-9,-9,No,No,Weekday,Night
+20098006,ACT,7,2009,Sunday,13:05,Multiple,1,No,No,No,80,-9,-9,-9,-9,No,No,Weekend,Day
+20098002,ACT,9,2009,Sunday,18:45,Single,1,No,No,No,40,-9,-9,-9,-9,No,No,Weekend,Night
+20098007,ACT,9,2009,Saturday,06:50,Multiple,1,No,No,Yes,90,-9,-9,-9,-9,No,No,Weekend,Day
+20098010,ACT,10,2009,Friday,05:10,Single,1,No,No,No,80,-9,-9,-9,-9,No,No,Weekday,Night
+20098005,ACT,10,2009,Thursday,20:10,Single,1,No,No,No,80,-9,-9,-9,-9,No,No,Weekday,Night
+20108014,ACT,1,2010,Friday,08:05,Multiple,1,No,No,No,60,-9,-9,-9,-9,No,No,Weekday,Day
+20108002,ACT,2,2010,Wednesday,20:50,Multiple,1,No,No,No,60,-9,-9,-9,-9,No,No,Weekday,Night
+20108004,ACT,2,2010,Tuesday,16:00,Multiple,1,No,Yes,No,80,-9,-9,-9,-9,No,No,Weekday,Day
+20108005,ACT,3,2010,Saturday,22:15,Multiple,4,No,No,No,80,-9,-9,-9,-9,No,No,Weekend,Night
+20108013,ACT,3,2010,Thursday,04:19,Multiple,1,No,No,No,80,-9,-9,-9,-9,No,No,Weekday,Night
+20108006,ACT,4,2010,Friday,12:25,Single,1,No,No,No,100,-9,-9,-9,-9,No,Yes,Weekday,Day
+20108008,ACT,4,2010,Sunday,19:45,Multiple,1,No,No,No,60,-9,-9,-9,-9,No,No,Weekend,Night
+20108003,ACT,4,2010,Friday,12:15,Multiple,1,No,No,No,50,-9,-9,-9,-9,No,No,Weekday,Day
+20108015,ACT,5,2010,Saturday,23:38,Single,1,No,No,No,60,-9,-9,-9,-9,No,No,Weekend,Night
+20108007,ACT,5,2010,Saturday,15:25,Multiple,1,No,No,No,50,-9,-9,-9,-9,No,No,Weekend,Day
+20108009,ACT,5,2010,Sunday,11:35,Multiple,1,No,No,No,60,-9,-9,-9,-9,No,No,Weekend,Day
+20108010,ACT,6,2010,Saturday,20:30,Multiple,1,No,No,No,60,-9,-9,-9,-9,No,No,Weekend,Night
+20108012,ACT,7,2010,Saturday,09:41,Multiple,1,Yes,No,No,80,-9,-9,-9,-9,No,No,Weekend,Day
+20108001,ACT,7,2010,Saturday,08:55,Multiple,1,No,No,No,80,-9,-9,-9,-9,No,No,Weekend,Day
+20108011,ACT,9,2010,Tuesday,11:00,Multiple,1,No,No,Yes,100,-9,-9,-9,-9,No,No,Weekday,Day
+20108016,ACT,12,2010,Tuesday,22:10,Single,1,No,No,No,50,-9,-9,-9,-9,No,No,Weekday,Night
+20118001,ACT,1,2011,Saturday,20:00,Single,1,No,No,No,80,-9,-9,-9,-9,No,No,Weekend,Night
+20118002,ACT,1,2011,Monday,07:45,Multiple,1,No,No,No,100,-9,-9,-9,-9,No,No,Weekday,Day
+20118006,ACT,3,2011,Saturday,20:40,Single,1,No,No,No,40,-9,-9,-9,-9,No,No,Weekend,Night
+20118005,ACT,3,2011,Thursday,02:05,Single,1,No,No,No,50,-9,-9,-9,-9,No,No,Weekday,Night
+20118004,ACT,3,2011,Saturday,15:49,Single,1,No,No,No,100,-9,-9,-9,-9,No,No,Weekend,Day
+20118003,ACT,3,2011,Tuesday,09:35,Multiple,1,No,No,No,80,-9,-9,-9,-9,No,No,Weekday,Day
+20128003,ACT,4,2012,Saturday,17:23,Single,1,No,No,No,100,-9,-9,-9,-9,No,No,Weekend,Day
+20128012,ACT,5,2012,Saturday,07:20,Multiple,1,No,No,No,60,-9,-9,-9,-9,No,No,Weekend,Day
+20128010,ACT,5,2012,Thursday,16:40,Single,1,No,No,No,80,-9,-9,-9,-9,No,No,Weekday,Day
+20128008,ACT,6,2012,Tuesday,18:50,Multiple,1,No,No,No,70,-9,-9,-9,-9,No,No,Weekday,Night
+20128009,ACT,6,2012,Sunday,13:45,Single,1,No,No,No,100,-9,-9,-9,-9,No,No,Weekend,Day
+20128006,ACT,7,2012,Thursday,00:50,Single,1,No,No,No,60,-9,-9,-9,-9,No,No,Weekday,Night
+20128002,ACT,9,2012,Saturday,18:10,Single,1,No,No,No,50,-9,-9,-9,-9,No,No,Weekend,Night
+20128007,ACT,9,2012,Thursday,13:34,Single,1,No,No,No,70,-9,-9,-9,-9,No,No,Weekday,Day
+20128011,ACT,10,2012,Friday,16:25,Single,1,No,No,No,50,-9,-9,-9,-9,No,No,Weekday,Day
+20128005,ACT,11,2012,Thursday,18:45,Single,1,No,No,No,50,-9,-9,-9,-9,No,No,Weekday,Night
+20128004,ACT,11,2012,Friday,10:09,Single,1,No,No,No,80,-9,-9,-9,-9,No,No,Weekday,Day
+20128001,ACT,12,2012,Tuesday,11:15,Multiple,1,No,Yes,No,80,-9,-9,-9,-9,No,No,Weekday,Day
+20138007,ACT,1,2013,Sunday,00:45,Single,1,No,No,No,50,-9,-9,-9,-9,No,No,Weekend,Night
+20138006,ACT,3,2013,Saturday,02:30,Single,1,No,No,No,60,-9,-9,-9,-9,No,No,Weekend,Night
+20138001,ACT,3,2013,Friday,23:00,Single,1,No,No,No,80,-9,-9,-9,-9,No,No,Weekend,Night
+20138002,ACT,3,2013,Wednesday,10:10,Multiple,1,No,No,No,80,-9,-9,-9,-9,No,No,Weekday,Day
+20138005,ACT,8,2013,Friday,16:55,Single,1,No,No,No,60,-9,-9,-9,-9,No,No,Weekday,Day
+20138004,ACT,9,2013,Tuesday,13:45,Multiple,1,No,No,No,80,-9,-9,-9,-9,No,No,Weekday,Day
+20138003,ACT,12,2013,Wednesday,23:00,Single,1,No,No,No,60,-9,-9,-9,-9,Yes,No,Weekday,Night
+20148006,ACT,2,2014,Saturday,01:30,Multiple,1,No,No,No,80,-9,-9,-9,-9,No,No,Weekend,Night
+20148004,ACT,2,2014,Tuesday,18:20,Multiple,1,No,No,No,60,-9,-9,-9,-9,No,No,Weekday,Night
+20148007,ACT,3,2014,Monday,01:05,Single,1,No,No,No,60,-9,-9,-9,-9,No,No,Weekend,Night
+20148008,ACT,3,2014,Wednesday,16:00,Single,1,No,No,No,60,-9,-9,-9,-9,No,No,Weekday,Day
+20148010,ACT,6,2014,Monday,13:20,Multiple,1,No,No,Yes,80,-9,-9,-9,-9,No,No,Weekday,Day
+20148009,ACT,8,2014,Sunday,16:40,Multiple,1,No,No,No,100,-9,-9,-9,-9,No,No,Weekend,Day
+20148002,ACT,9,2014,Saturday,02:00,Single,1,No,No,No,40,-9,-9,-9,-9,No,No,Weekend,Night
+20148005,ACT,9,2014,Wednesday,15:55,Single,1,Yes,No,No,60,-9,-9,-9,-9,No,No,Weekday,Day
+20148001,ACT,11,2014,Wednesday,16:50,Multiple,1,No,No,Yes,100,-9,-9,-9,-9,No,No,Weekday,Day
+20148003,ACT,12,2014,Saturday,02:30,Single,1,No,No,No,60,-9,-9,-9,-9,No,No,Weekend,Night
+20158012,ACT,1,2015,Thursday,07:45,Single,1,No,No,No,60,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Collector Road,No,No,Weekday,Day
+20158002,ACT,4,2015,Wednesday,19:10,Multiple,1,Yes,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Arterial Road,No,No,Weekday,Night
+20158001,ACT,5,2015,Tuesday,18:00,Multiple,1,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Arterial Road,No,No,Weekday,Night
+20158006,ACT,5,2015,Sunday,17:45,Single,1,No,No,No,60,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Collector Road,No,No,Weekend,Day
+20158011,ACT,6,2015,Thursday,05:00,Single,1,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,No,No,Weekday,Night
+20158003,ACT,6,2015,Wednesday,13:15,Multiple,1,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,No,No,Weekday,Day
+20158010,ACT,7,2015,Thursday,05:50,Multiple,1,No,No,Yes,100,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,No,No,Weekday,Night
+20158014,ACT,7,2015,Wednesday,19:00,Multiple,1,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Collector Road,No,No,Weekday,Night
+20158005,ACT,9,2015,Saturday,20:20,Multiple,1,No,No,No,60,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,No,No,Weekend,Night
+20158004,ACT,9,2015,Friday,17:45,Multiple,1,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,No,No,Weekday,Day
+20158008,ACT,11,2015,Saturday,17:20,Multiple,1,No,No,No,100,Inner Regional Australia,Australian Capital Territory,Unincorporated ACT,National or State Highway,No,No,Weekend,Day
+20158013,ACT,12,2015,Thursday,11:55,Multiple,2,No,No,No,60,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Collector Road,No,No,Weekday,Day
+20158009,ACT,12,2015,Monday,15:30,Single,1,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Arterial Road,Yes,No,Weekday,Day
+20158007,ACT,12,2015,Friday,11:00,Multiple,1,No,No,No,60,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,Yes,No,Weekday,Day
+20168002,ACT,3,2016,Wednesday,17:00,Single,1,No,No,No,80,Inner Regional Australia,Australian Capital Territory,Unincorporated ACT,Collector Road,No,No,Weekday,Day
+20168007,ACT,5,2016,Saturday,15:15,Single,1,No,No,No,50,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,No,No,Weekend,Day
+20168010,ACT,5,2016,Wednesday,17:00,Multiple,1,No,No,No,40,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,No,No,Weekday,Day
+20168006,ACT,7,2016,Saturday,05:50,Single,1,No,No,No,100,Inner Regional Australia,Australian Capital Territory,Unincorporated ACT,National or State Highway,No,No,Weekend,Night
+20168005,ACT,7,2016,Wednesday,07:20,Multiple,1,No,No,No,100,Inner Regional Australia,Australian Capital Territory,Unincorporated ACT,National or State Highway,No,No,Weekday,Day
+20168011,ACT,9,2016,Monday,03:00,Multiple,1,No,No,Yes,100,Inner Regional Australia,Australian Capital Territory,Unincorporated ACT,National or State Highway,No,No,Weekend,Night
+20168009,ACT,9,2016,Friday,08:30,Multiple,1,No,No,No,70,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Collector Road,No,No,Weekday,Day
+20168001,ACT,10,2016,Sunday,16:40,Single,1,No,No,No,60,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Collector Road,No,No,Weekend,Day
+20168003,ACT,10,2016,Thursday,16:40,Multiple,1,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,No,No,Weekday,Day
+20168008,ACT,11,2016,Sunday,11:55,Single,1,No,No,No,100,Inner Regional Australia,Australian Capital Territory,Unincorporated ACT,Collector Road,No,No,Weekend,Day
+20178003,ACT,1,2017,Thursday,16:00,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20178005,ACT,2,2017,Monday,12:15,Multiple,1,No,No,No,60,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,No,No,Weekday,Day
+20178001,ACT,3,2017,Friday,06:25,Multiple,1,No,No,No,100,Inner Regional Australia,Australian Capital Territory,Unincorporated ACT,National or State Highway,No,No,Weekday,Day
+20178004,ACT,5,2017,Wednesday,11:55,Multiple,1,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Collector Road,No,No,Weekday,Day
+20178002,ACT,11,2017,Wednesday,21:37,Single,1,No,No,No,100,Inner Regional Australia,Australian Capital Territory,Unincorporated ACT,Collector Road,No,No,Weekday,Night
+20188005,ACT,1,2018,Tuesday,18:00,Single,1,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,Yes,No,Weekday,Night
+20188007,ACT,2,2018,Thursday,17:00,Multiple,1,No,No,No,60,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,No,No,Weekday,Day
+20188001,ACT,2,2018,Friday,18:30,Single,1,No,No,No,50,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,No,No,Weekend,Night
+20188009,ACT,4,2018,Saturday,09:05,Multiple,1,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,No,No,Weekend,Day
+20188002,ACT,5,2018,Friday,20:00,Multiple,1,No,No,No,60,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,No,No,Weekend,Night
+20188008,ACT,5,2018,Sunday,19:30,Single,1,No,No,No,60,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Collector Road,No,No,Weekend,Night
+20188003,ACT,7,2018,Saturday,09:30,Multiple,1,No,Yes,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,National or State Highway,No,No,Weekend,Day
+20188006,ACT,9,2018,Monday,11:20,Single,1,No,No,No,100,-9,-9,-9,-9,No,No,Weekday,Day
+20188004,ACT,10,2018,Saturday,21:50,Single,1,Yes,No,No,100,-9,-9,-9,-9,No,No,Weekend,Night
+20198003,ACT,1,2019,Friday,20:00,Single,1,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,No,No,Weekend,Night
+20198001,ACT,6,2019,Wednesday,04:20,Single,1,No,No,No,60,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,No,No,Weekday,Night
+20198004,ACT,6,2019,Monday,12:05,Single,1,No,No,No,10,-9,-9,-9,-9,No,No,Weekday,Day
+20198005,ACT,9,2019,Tuesday,09:30,Multiple,1,No,No,Yes,100,Inner Regional Australia,Australian Capital Territory,Unincorporated ACT,National or State Highway,No,No,Weekday,Day
+20198006,ACT,10,2019,Monday,14:05,Multiple,1,No,No,No,50,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,No,No,Weekday,Day
+20198002,ACT,12,2019,Saturday,06:20,Single,1,No,No,No,60,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,No,No,Weekend,Day
+20208005,ACT,4,2020,Saturday,11:30,Multiple,2,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Arterial Road,No,No,Weekend,Day
+20208004,ACT,7,2020,Monday,14:45,Multiple,1,No,No,No,70,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,No,No,Weekday,Day
+20208002,ACT,9,2020,Sunday,11:40,Multiple,1,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,No,No,Weekend,Day
+20208003,ACT,9,2020,Tuesday,07:35,Single,1,No,No,No,100,Inner Regional Australia,Australian Capital Territory,Unincorporated ACT,Collector Road,No,No,Weekday,Day
+20208006,ACT,10,2020,Saturday,01:50,Single,1,No,No,No,50,-9,-9,-9,-9,No,No,Weekend,Night
+20208001,ACT,12,2020,Sunday,12:20,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekend,Day
+20218003,ACT,1,2021,Sunday,13:07,Single,1,No,No,No,100,Inner Regional Australia,Australian Capital Territory,Unincorporated ACT,Collector Road,No,No,Weekend,Day
+20218004,ACT,2,2021,Monday,17:15,Single,1,No,No,No,50,-9,-9,-9,-9,No,No,Weekday,Day
+20218005,ACT,2,2021,Thursday,20:50,Multiple,1,No,No,No,60,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,No,No,Weekday,Night
+20218002,ACT,3,2021,Monday,01:08,Multiple,1,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,National or State Highway,No,No,Weekend,Night
+20218008,ACT,4,2021,Tuesday,22:28,Single,1,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,No,No,Weekday,Night
+20218010,ACT,6,2021,Friday,17:15,Single,1,No,No,No,50,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,No,No,Weekday,Day
+20218006,ACT,7,2021,Thursday,13:00,Single,1,No,No,No,60,-9,-9,-9,-9,No,No,Weekday,Day
+20218001,ACT,8,2021,Tuesday,11:00,Multiple,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20218011,ACT,9,2021,Wednesday,11:20,Multiple,1,No,No,No,80,-9,-9,-9,-9,No,No,Weekday,Day
+20218007,ACT,12,2021,Wednesday,11:25,Single,1,No,No,No,-9,-9,-9,-9,-9,No,No,Weekday,Day
+20218009,ACT,12,2021,Monday,12:00,Single,1,No,No,No,80,-9,-9,-9,-9,Yes,No,Weekday,Day
+20228015,ACT,1,2022,Monday,10:30,Single,1,No,No,No,-9,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Local Road,No,No,Weekday,Day
+20228008,ACT,1,2022,Wednesday,20:00,Single,1,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Arterial Road,No,No,Weekday,Night
+20228004,ACT,2,2022,Sunday,23:00,Single,1,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Arterial Road,No,No,Weekend,Night
+20228011,ACT,4,2022,Sunday,06:05,Single,1,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Arterial Road,No,No,Weekend,Day
+20228012,ACT,4,2022,Friday,04:20,Single,1,No,No,No,50,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Collector Road,No,Yes,Weekday,Night
+20228007,ACT,5,2022,Thursday,22:55,Multiple,1,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Arterial Road,No,No,Weekday,Night
+20228013,ACT,5,2022,Friday,17:20,Single,1,No,No,No,60,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Arterial Road,No,No,Weekday,Day
+20228003,ACT,5,2022,Saturday,13:15,Single,1,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Arterial Road,No,No,Weekend,Day
+20228009,ACT,5,2022,Saturday,21:20,Single,1,No,No,No,60,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Collector Road,No,No,Weekend,Night
+20228001,ACT,6,2022,Saturday,22:05,Single,1,No,No,No,50,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Access road,No,No,Weekend,Night
+20228006,ACT,8,2022,Monday,17:30,Multiple,1,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Arterial Road,No,No,Weekday,Day
+20228005,ACT,9,2022,Sunday,15:10,Multiple,1,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Arterial Road,No,No,Weekend,Day
+20228014,ACT,10,2022,Sunday,14:45,Multiple,3,No,No,No,60,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Collector Road,No,No,Weekend,Day
+20228002,ACT,10,2022,Saturday,22:00,Single,1,No,No,No,60,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Collector Road,No,No,Weekend,Night
+20228010,ACT,10,2022,Sunday,03:55,Single,2,No,No,No,80,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,National or State Highway,No,No,Weekend,Night
